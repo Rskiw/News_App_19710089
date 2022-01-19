@@ -9,7 +9,7 @@
             "type": "dart",
             "request": "launch",
             "program": "./test/"
-        },
+        },\
         {
             "name": "news_app_19710089",
             "request": "launch",
